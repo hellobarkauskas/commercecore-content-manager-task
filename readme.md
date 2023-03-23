@@ -4,5 +4,4 @@ Užkomentavau ir palikau keletą div'ų su nuotraukomis tam, kad pasibandyti sti
 
 Paleidimui naudoju Live Server įskiepį VSC.
 
-
 Ačiū!
